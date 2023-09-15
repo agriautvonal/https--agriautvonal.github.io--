@@ -1,0 +1,227 @@
+* {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+body {
+    font-size: 13px;
+    font-family: Verdana, Arial, Helvetica,sans-serif;
+    color: black;
+    line-height: 15pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    padding-top: 2px;
+}
+
+#tartalom {
+    width: 100%;
+    margin-right: -200px;
+    margin-top: -10px;
+
+}
+
+#tervrajz {
+    width: 80%;
+    
+    
+}
+
+#jlogo {
+    float: left;
+    width: 400px;
+    height: 80px;
+    margin: 20px;
+    margin-bottom: 20px;
+    
+}
+
+#tablazat {
+    width: 100%;
+
+}
+
+#jszoveg {
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 10px;
+    margin-left: -10px;
+    margin-right: 0px;
+}
+
+#szöveg {
+    font-size: 10;
+    width: 100%;
+    float: left;
+    margin-left: 20px;
+}
+
+#lista {
+    margin-left: 20px;
+    margin-top:100px;
+    width: 100%;
+    padding:10px;
+    margin:10px;
+    line-height: 35px;
+    font-size: 10px;
+    
+    
+}
+
+
+#fejlec {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold ;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+    
+}
+
+#fejlec li {
+    
+    text-align: center;
+    float: left;
+    margin-right: 0px;
+    
+}
+
+#fejlec li a {
+    
+    padding: 10px 45px;
+    display: block;
+    text-decoration: none;
+}
+
+#fejlec li a:hover {
+    background-color: gainsboro;
+    
+}
+
+#szechenyi {
+    width: 50%;
+    margin-right: 40px;
+    margin-top: -2450px;
+    margin-left: 380px;
+    margin-bottom: -200px;
+    
+}
+
+#cegbemutato {
+    text-align: left;
+    font-size: 15;
+    margin: 20px;
+    line-height: 30px;
+}
+
+#adatok {
+    width: 500px;
+    font-size: 10;
+    float: right;
+    margin-left: -220px;
+    margin-top: 0px;
+
+}
+
+#road {
+    text-align: left;
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 80px;
+    margin-left: -150px;
+}
+
+#zoldvonal {
+    height: 5px;
+    width: 100%;
+    margin-left: -20px;
+}
+
+#alsokep {
+    width: 20px;
+    margin: 5px;
+    margin-right: 20px;
+    
+}
+
+#alsoresz {
+    font-size: 10;
+    width: 100%;
+    margin: -10px;
+    margin-top: 20px;
+}
+
+#menupontok { 
+    font-size: 10;
+    float: right;
+    margin-right: 50px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#fejleckep02 {
+    width: 100%;
+    height: 400px;
+}
+
+#feher {
+    height: 100px;
+    width: 50%;
+    
+}
+
+#feher01 {
+    height: 30px;
+    
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#utkep {
+    width: 350px;
+    height: 600px;
+    float: right;
+    margin-top: -400px;
+}
+
+#utc {
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-top: -150px;
+}
+
+#refkep {
+    padding-top: 10px;
+    padding-right: -20px;
+    height: 300px;
+    width: 300px;
+}
+
+#ref {
+    width: 100%;
+}
+
+#jobbra {
+    float: top;
+}
+
+#utanahely {
+    padding-bottom: 10px;
+}
+
+#elottehely {
+    padding-top: 30px;
+}

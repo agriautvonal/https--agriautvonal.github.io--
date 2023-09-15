@@ -1,0 +1,321 @@
+Referencia
+Cégadatok
+Kapcsolat
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang = "hu">
+
+<head>
+    <meta charset = "UTF-8">
+    <title> Agria Útvonal Kft. - Cégünkről </title>
+    <link rel = "stylesheet" type = "text/css" href = "KFT.css">
+</head>
+
+<body>
+
+<div id = "tartalom">
+    
+     <table>
+
+        <th> 
+         <tr>
+             <th> <img src = "jlogo.jpg"  id = "jlogo"> </th>
+             <th id = "jszoveg">  <p> Agria Útvonal Kft. </p>
+                                  <p> 3300 Eger, Dr. Kapor Elemér u. 20. </p>
+                                  <p> Mobil: +36-70/347-3051 </p> </th> 
+             </tr>
+        </th>
+
+        <th> 
+                    <ul id = "fejlec"> 
+                        <li> <a href = "#cegunkrol"> Cégünkről  </a>  </li>
+                        <li> <a href = "#szolgaltatasaink"> Szolgáltatásaink  </a>  <li>
+                        <li> <a href = "#kapcsolat"> Kapcsolat  </a> </li>
+                        <li> <a href = "#elerhetosegeink"> Elérhetőségeink  </a> </li>
+                        <li> <a href = "#cegadatok"> Cégadatok </a> </li>
+                    </ul> 
+        </th>
+
+        <tr>
+            <td colspan = "2"  stlye = "max-height: 250px; overflow: hidden;" id = "tervrajz"> <img src = "tervrajz.jpg" style = "width: 100%; height: 350px;"> </td>   
+        </tr>
+
+     </table>           
+        
+     <div id = "szöveg">
+    
+            <div id = "cegbemutato">
+                <h1> Cégbemutató  </h1>
+                <p> Az Agria Útvonal Kft. 2022-ben alakult. A cég elsődleges profiljaként mérnöki tevékenységet és építőipari kivitelezési tevékenységet folytat.
+                Műszaki és esztétikai szempontból is a minőségi munkavégzésre törekvés az alapelvünk. 
+                Cégünk kötelezettség nélkül helyszíni felméréssel, műszaki javaslatokkal, teljes körű megalapozott árajánlattal próbálja lehetséges megrendelőit segíteni a számukra legmegfelelőbb kivitelező kiválasztásában. 
+                Az alábbi megyékben végez a cégünk építőipari kivitelezési munkákat: Heves – Nógrád – Pest – BAZ – JNSZ – Szabolcs-Szatmár-Bereg – Hajdú-Bihar megyék, azaz    az    Észak-Kelet Magyarországi régióban. 
+                Több éves szakmai tapasztalattal rendelkező műszaki szakemberekkel és létszámmal, üzembiztos munkagépekkel és járművekkel rendelkezünk. </p>
+            </div>
+
+    
+        <table>
+        <tr id = "lista">
+
+            <tr>
+                <th id = "adatok" > Adatok: </th>
+                <th> Kiemelt Referenciáink </th>
+            </tr>
+        
+            <tr>
+                <td>
+                    <h2> Létszám adatok: </h2>
+                    <p>  2 fő műszaki vezető </p>
+                    <p>  4 fő gépkezelő </p>
+                    <p>  4 fő gépkocsivezető </p>
+                    <p>  20 fő fizikai dolgozó </p>
+
+                    <h2> Géppark adatai: </h2>
+                    <p>  1 db JCB 3CX kotró-rakodógép </p>
+                    <p>  1 db Caterpillar 428D kotró-rakodógép </p>
+                    <p>  1 db Case 580ST kotró-rakodógép </p>
+                    <p>  1 db Shaef 10 t gumikerekes forgókotró </p>
+                    <p>  1 db JCB 17 t gumikerekes forgókotró </p>
+                    <p>  1 db JCB 1.5 t gumiláncos minikotró </p>
+                    <p>  1 db 3.5 t Bomag vashenger </p>
+
+                    <h2> Járművek adatai: </h2>
+                    <p>  1 db Scania 10 tonnás tgk. </p>
+                    <p>  2 db MAN 10 tonnás tgk. </p>
+                    <p>  1 db DAF 10,5 tonnás tgk. </p>
+                    <p>  1 db 24 tonnás tréler </p>
+                    <p>  1 db 9 fős kisbusz </p>
+                    <p>  3 db platós 7 személyes 1.5 tonnás tgk. </p>
+                </td>
+
+                <td> <img src = "szechenyi2020.jpg" id = "szechenyi"></td>
+            </tr>
+        </tr>
+    </table>
+            
+
+    <p> MÉRNÖKI TEVÉKENYSÉGEK, ÉPÍTŐIPARI FŐVÁLLALKOZÁS, GENERÁLKIVITELEZÉS, MÉLYÉPÍTÉS, MAGASÉPÍTÉS </p>
+        
+    <table id = "alsoresz">
+        <img src ="zoldvonal.jpg" id = "zoldvonal">
+        <tr>
+            <th> Agria Útvonal KFT. </th>
+            <th> </th>
+            <th> Menüpontok </th>
+        </tr>
+
+        <tr> 
+            <td id = "adatok">
+                <p> <img src = "home.png" id = "alsokep" > 3300 Eger, Dr. Kapor Elemér u. 20. </p>
+                <p> <img src = "tel-w.png" id = "alsokep" > +36-70-347-3051</p>
+                <p> <img src = "E-Mail.png" id = "alsokep" > Írjon nekünk </p>
+            </td>
+
+            <td>  <img src = "road_003.jpg" id = "road">  </td>
+            <td id = "menupontok">
+                <p> Cégünkről </p>
+                <p> Szolgáltatásaink </p>
+                <p> Kapcsolat </p>
+                <p> Elérhetőségeink </p>
+                <p> Cégadatok </p>
+            </td>
+        </tr>
+    </table>
+
+
+</div>
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+
+body {
+    font-size: 13px;
+    font-family: Verdana, Arial, Helvetica,sans-serif;
+    color: black;
+    line-height: 15pt;
+    padding-left: 10pt;
+    padding-right: 10pt;
+    padding-top: 2px;
+}
+
+#tartalom {
+    width: 100%;
+    margin-right: -200px;
+    margin-top: -10px;
+
+}
+
+#tervrajz {
+    width: 80%;
+    
+    
+}
+
+#jlogo {
+    float: left;
+    width: 400px;
+    height: 80px;
+    margin: 20px;
+    margin-bottom: 20px;
+    
+}
+
+#tablazat {
+    width: 100%;
+
+}
+
+#jszoveg {
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 10px;
+    margin-left: -10px;
+    margin-right: 0px;
+}
+
+#szöveg {
+    font-size: 10;
+    width: 100%;
+    float: left;
+    margin-left: 20px;
+}
+
+#lista {
+    margin-left: 20px;
+    margin-top:100px;
+    width: 100%;
+    padding:10px;
+    margin:10px;
+    line-height: 35px;
+    font-size: 10px;
+    
+    
+}
+
+
+#fejlec {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold ;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    float: left;
+    
+}
+
+#fejlec li {
+    
+    text-align: center;
+    float: left;
+    margin-right: 0px;
+    
+}
+
+#fejlec li a {
+    
+    padding: 10px 45px;
+    display: block;
+    text-decoration: none;
+}
+
+#fejlec li a:hover {
+    background-color: gainsboro;
+    
+}
+
+#szechenyi {
+    width: 50%;
+    margin-right: 40px;
+    margin-top: -1450px;
+    margin-left: 380px;
+    
+}
+
+#cegbemutato {
+    text-align: left;
+    font-size: 15;
+    margin: 20px;
+    line-height: 30px;
+}
+
+#adatok {
+    width: 500px;
+    font-size: 10;
+    float: right;
+    margin-left: -220px;
+    margin-top: 0px;
+
+}
+
+#road {
+    text-align: left;
+    width: 300px;
+    height: 300px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 80px;
+    margin-left: -150px;
+}
+
+#zoldvonal {
+    height: 5px;
+    width: 100%;
+    margin-left: -20px;
+}
+
+#alsokep {
+    width: 20px;
+    margin: 5px;
+    margin-right: 20px;
+}
+
+#alsoresz {
+    font-size: 10;
+    width: 100%;
+    margin: -10px;
+    margin-top: 20px;
+}
+
+#menupontok { 
+    font-size: 10;
+    float: right;
+    margin-right: 50px;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
